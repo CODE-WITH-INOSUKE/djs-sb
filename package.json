@@ -1,0 +1,16 @@
+{
+  "name": "rex-bot",
+  "module": "index.js",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "^3.7.1"
+  }
+}
